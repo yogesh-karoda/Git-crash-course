@@ -14,5 +14,5 @@ function hii(){
 function addNewFeature(){
   console.log("This is the new feature");
   console.log("This is the new feature 1");
-   console.log("This is the new feature b");
+  console.log("This is the new feature b");
 }
