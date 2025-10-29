@@ -9,3 +9,8 @@ function sayName() {
 function hii(){
   console.log("hello")
 }
+
+
+function addNewFeature(){
+  console.log("This is the new feature");
+}
