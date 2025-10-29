@@ -6,3 +6,6 @@ function sayName() {
   console.log("Hello" + Name);
 }
 
+function hii(){
+  console.log("hello")
+}
